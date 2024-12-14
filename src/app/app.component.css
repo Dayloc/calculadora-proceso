@@ -1,0 +1,13 @@
+container {
+  width: 30px;
+}
+.pantalla {
+  height: 60px;
+  font-size: 32px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  border-radius: 10px;
+  border: 2px solid #442e2e;
+}
